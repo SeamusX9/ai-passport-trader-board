@@ -1,0 +1,8 @@
+# Character inventory for AI Passport Ollama chat UI (UTF-8).
+# Regenerated font must cover every glyph below plus printable ASCII 0x20-0x7E.
+# Dynamic Ollama replies also need the common-character appendix listed after UI text.
+
+本机对话上/下切换确定进入开始打开配网模型主机尚未配置请先网络已连接正在连接热点开失败空闲选择问题发送长按返回思考中回答将显示在这里手机填写按下开启浏览器打开填写电脑局域网需允许端口请完成并请求失败配网页你好请用一句话介绍自己今天适合做什么给我一句鼓励用三句话讲个小故事解释什么是人工智能
+
+# Full-width / CJK punctuation used in UI and replies:
+，。、；：？！…—·「」『』（）【】《》
