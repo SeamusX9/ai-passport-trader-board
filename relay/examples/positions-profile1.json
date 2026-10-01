@@ -1,0 +1,74 @@
+{
+  "ok": true,
+  "trader_id": "profile1",
+  "received_at": "2026-10-01 11:28:01",
+  "payload": {
+    "source_host": "PC",
+    "strategy": "均衡型",
+    "pushed_at": "2026-10-01 12:01:11",
+    "short_name": "大虎B",
+    "bound_analyst_id": "profile8",
+    "profile_id": "profile1",
+    "status": "stopped",
+    "bound_analyst_name": "本地",
+    "running": false,
+    "sections": [
+      "summary",
+      "trades",
+      "positions"
+    ],
+    "name": "大虎B",
+    "role_type": "trader",
+    "include": [
+      "positions"
+    ],
+    "positions": [
+      {
+        "code": "000725",
+        "name": "京东方Ａ",
+        "shares": 23100,
+        "avg_cost": 6.1016,
+        "cost_basis": 140946.64,
+        "price": 5.72,
+        "market_value": 132132.0,
+        "unrealized_pnl": -8814.64,
+        "unrealized_pct": -6.25,
+        "sellable": 23100
+      },
+      {
+        "code": "002241",
+        "name": "歌尔股份",
+        "shares": 6000,
+        "avg_cost": 24.3363,
+        "cost_basis": 146017.95,
+        "price": 22.79,
+        "market_value": 136740.0,
+        "unrealized_pnl": -9277.95,
+        "unrealized_pct": -6.35,
+        "sellable": 6000
+      },
+      {
+        "code": "600410",
+        "name": "华胜天成",
+        "shares": 9500,
+        "avg_cost": 15.344,
+        "cost_basis": 145767.89,
+        "price": 14.18,
+        "market_value": 134710.0,
+        "unrealized_pnl": -11057.89,
+        "unrealized_pct": -7.59,
+        "sellable": 9500
+      }
+    ],
+    "holdings_count": 8,
+    "available_sections": [
+      "summary",
+      "trades",
+      "positions"
+    ],
+    "_positions_total": 8
+  },
+  "include": [
+    "positions"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "trader_id": "profile2",
+  "received_at": "2026-10-01 11:28:01",
+  "payload": {
+    "source_host": "PC",
+    "strategy": "均衡型",
+    "pushed_at": "2026-10-01 12:01:10",
+    "short_name": "保守操盘",
+    "bound_analyst_id": "profile8",
+    "profile_id": "profile2",
+    "status": "stopped",
+    "bound_analyst_name": "本地",
+    "running": false,
+    "sections": [
+      "summary",
+      "trades",
+      "positions"
+    ],
+    "name": "保守操盘",
+    "role_type": "trader",
+    "include": [
+      "summary"
+    ],
+    "position_pct": 82.1,
+    "unrealized_pnl": 3144.21,
+    "unrealized_pct": 0.77,
+    "day_summary": {
+      "day": "2026-10-01",
+      "buy_count": 0,
+      "sell_count": 0,
+      "trade_count": 0,
+      "stock_count": 0,
+      "stocks": [],
+      "stock_labels": [],
+      "stocks_text": "—",
+      "day_pnl": 0.0,
+      "day_pnl_pct": 0.0,
+      "win_count": 0,
+      "lose_count": 0,
+      "flat_count": 0,
+      "win_rate": 0.0,
+      "float_pnl": 3144.21,
+      "float_pnl_pct": 0.77,
+      "total_pnl": 4530.15,
+      "total_pnl_pct": 0.91
+    },
+    "trade_count": 12,
+    "holdings_value": 414009.0,
+    "pnl_pct": 0.91,
+    "cash": 90521.15,
+    "pnl": 4530.15,
+    "holdings_count": 5,
+    "total_assets": 504530.15,
+    "available_sections": [
+      "summary",
+      "trades",
+      "positions"
+    ]
+  },
+  "include": [
+    "summary"
+  ]
+}

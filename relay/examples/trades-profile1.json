@@ -1,0 +1,76 @@
+{
+  "ok": true,
+  "trader_id": "profile1",
+  "received_at": "2026-10-01 11:28:01",
+  "payload": {
+    "source_host": "PC",
+    "strategy": "均衡型",
+    "pushed_at": "2026-10-01 12:01:11",
+    "short_name": "大虎B",
+    "bound_analyst_id": "profile8",
+    "profile_id": "profile1",
+    "status": "stopped",
+    "bound_analyst_name": "本地",
+    "running": false,
+    "sections": [
+      "summary",
+      "trades",
+      "positions"
+    ],
+    "name": "大虎B",
+    "role_type": "trader",
+    "include": [
+      "trades"
+    ],
+    "trades": [
+      {
+        "id": 48,
+        "code": "600721",
+        "name": "百花医药",
+        "side": "买入",
+        "price": 13.22,
+        "market_price": 13.18,
+        "shares": 100,
+        "fee": 5.01,
+        "trade_at": "2026-09-30 13:56:39",
+        "note": "建仓|分析师本地|技术面多头排列（MA5/10/20/60均向上），MACD金叉且量能温和放大，BOLL中轨提供支撑；但高市盈率（169.",
+        "created_at": "2026-09-30 13:56:39",
+        "source": "analyst:ai",
+        "confidence": "中",
+        "tech_score": 98.0,
+        "strategy": "均衡型",
+        "sell_reason_type": "",
+        "decision_id": 495
+      },
+      {
+        "id": 47,
+        "code": "000002",
+        "name": "万  科Ａ",
+        "side": "卖出",
+        "price": 4.31,
+        "market_price": 4.32,
+        "shares": 300,
+        "fee": 5.66,
+        "trade_at": "2026-09-30 13:56:38",
+        "note": "换仓腾资金：卖出弱势 万  科Ａ(000002) 评分76/浮盈+12.9%/持仓2天，让位于 先导智能(300450) 评分100",
+        "created_at": "2026-09-30 13:56:38",
+        "source": "",
+        "confidence": "",
+        "tech_score": null,
+        "strategy": "均衡型",
+        "sell_reason_type": "换仓",
+        "decision_id": null
+      }
+    ],
+    "trade_count": 24,
+    "available_sections": [
+      "summary",
+      "trades",
+      "positions"
+    ],
+    "_trades_total": 24
+  },
+  "include": [
+    "trades"
+  ]
+}

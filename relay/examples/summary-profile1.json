@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "trader_id": "profile1",
+  "received_at": "2026-10-01 11:28:01",
+  "payload": {
+    "source_host": "PC",
+    "strategy": "均衡型",
+    "pushed_at": "2026-10-01 12:01:11",
+    "short_name": "大虎B",
+    "bound_analyst_id": "profile8",
+    "profile_id": "profile1",
+    "status": "stopped",
+    "bound_analyst_name": "本地",
+    "running": false,
+    "sections": [
+      "summary",
+      "trades",
+      "positions"
+    ],
+    "name": "大虎B",
+    "role_type": "trader",
+    "include": [
+      "summary"
+    ],
+    "position_pct": 95.0,
+    "unrealized_pnl": -28740.36,
+    "unrealized_pct": -6.17,
+    "day_summary": {
+      "day": "2026-10-01",
+      "buy_count": 0,
+      "sell_count": 0,
+      "trade_count": 0,
+      "stock_count": 0,
+      "stocks": [],
+      "stock_labels": [],
+      "stocks_text": "—",
+      "day_pnl": 0.0,
+      "day_pnl_pct": 0.0,
+      "win_count": 0,
+      "lose_count": 0,
+      "flat_count": 0,
+      "win_rate": 0.0,
+      "float_pnl": -28740.36,
+      "float_pnl_pct": -6.17,
+      "total_pnl": -40127.67,
+      "total_pnl_pct": -8.03
+    },
+    "trade_count": 24,
+    "holdings_value": 436799.0,
+    "pnl_pct": -8.03,
+    "cash": 23073.33,
+    "pnl": -40127.67,
+    "holdings_count": 8,
+    "total_assets": 459872.33,
+    "available_sections": [
+      "summary",
+      "trades",
+      "positions"
+    ]
+  },
+  "include": [
+    "summary"
+  ]
+}
